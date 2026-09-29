@@ -1,0 +1,15 @@
+{
+  "name": "ghifi-digital-website",
+  "version": "1.0.0",
+  "description": "Website portal GhiFi Digital untuk aplikasi TokoKu POS dan Akunia",
+  "private": true,
+  "scripts": {
+    "start": "serve . -l 3000",
+    "dev": "serve . -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  },
+  "author": "Ghita Freshilia",
+  "license": "UNLICENSED"
+}
